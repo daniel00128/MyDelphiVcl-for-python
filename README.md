@@ -3,6 +3,10 @@
 
 參考python4delphi提供之demo程式， 使用delphi開發的python package，增加delphi使用者熟悉之MessageDlg 函數，給python GUI使用者呼叫及使用。
 
+作業系統:windows 10
+delphi : dx 10.3
+python : v 3.8 32位元
+
 ## 參考網址:
 [pythongui.org](https://pythongui.org/python-for-delphi-vcl-vs-tkinter/)
 [python4delphi](https://github.com/pyscripter/python4delphi)
