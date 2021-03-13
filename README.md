@@ -9,7 +9,8 @@
 ---
 
 #執行結果:
-[MyDelphiVcl](video/MyDelphiVcl.mp4)
+
+[Demo影片](https://www.youtube.com/watch?v=dH8frEgfmRQ)
 
 
 #程式碼:
