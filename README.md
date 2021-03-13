@@ -1,7 +1,7 @@
 # MyDelphiVcl for python
 ![1.png](img/1.png)
 
-參考python4delphi提供之demo程式， 開發delphi開發的python package，增加delphi使用者熟悉之MessageDlg 函數，給python GUI使用者呼叫及使用。
+參考python4delphi提供之demo程式， 使用delphi開發的python package，增加delphi使用者熟悉之MessageDlg 函數，給python GUI使用者呼叫及使用。
 
 ## 參考網址:
 [pythongui.org](https://pythongui.org/python-for-delphi-vcl-vs-tkinter/)
